@@ -13,29 +13,37 @@ Aplikasi ini ditujukan kepada siapa saja yang ingin mengisi waktu luangnya untuk
 Perbedaan signifikan antara login sebagai tamu dengan login dengan menggunakan akun yaitu ada pada fitur kategori kuis, dimana akan ada pilihan kategori kuis yang lebih banyak jika memilih opsi login dengan menggunakan akun.
 
 **Screenshot Program Aplikasi :**
-1. Login
+1. Launcher
 
-![](image/login.png)
+![](image/launcher.jpg)
 
-2. Register
+2. Main Home
 
-![](image/register.png)
+![](image/home.jpg)
 
-3. Main
+3. Home (Login as Guest)
 
-![](image/main.png)
+![](image/home_guest.jpg)
 
-4. Food Detail
+4. Quiz Category (Login as Guest)
 
-![](image/detail1.png)
+![](image/category_guest.jpg)
 
-5. Cart
+5. Level
 
-![](image/cart1.png)
+![](image/level.jpg)
 
-6. About Us
+6. Question True Answer (Login as Guest)
 
-![](image/aboutus1.png)
+![](image/question_guest_true.jpg)
+
+7. Question Wrong Answer (Login as Guest)
+
+![](image/question_guest_wrong.jpg)
+
+8. Score
+
+![](image/score.jpg)
 
 **IDE yang dibutuhkan :**
 1. Android Studio versi 4.1 keatas
