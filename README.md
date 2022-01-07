@@ -8,7 +8,7 @@
 
 Death Quiz merupakan sebuah aplikasi kuis (multiple choice quiz) berbasis android, dimana mempunyai beberapa pilihan kategori dan level kuis yang dapat dipilih oleh user. Informasi kredensial user, level kuis, kategori kuis, serta kumpulan soal kuis disimpan dan diolah melalui firebase. 
 
-Aplikasi ini ditujukan kepada siapa saja yang ingin mengisi waktu luangnya untuk menguji dan menambah wawasannya melaui soal - soal kuis yang diberikan paad aplikasi. Aplikasi ini bisa digunakan dimana saja dan tidak membutuhkan akses internet jika memilih opsi "Login as Guest", membutuhkan akses internet jika memilih opsi "Login with Account". Aplikasi ini bekerja selama 24 jam jadi bisa digunakan kapan saja ketika user ingin menggunakannya.
+Aplikasi ini ditujukan kepada siapa saja yang ingin mengisi waktu luangnya untuk menguji dan menambah wawasannya melaui soal - soal kuis yang diberikan paad aplikasi. Aplikasi ini bisa digunakan dimana saja dan tidak membutuhkan akses internet jika memilih opsi "Login as Guest", membutuhkan akses internet jika memilih opsi "Login with Account", karena harus mengecek informasi kredensial yang diinputkan oleh user ke database. Aplikasi ini bekerja selama 24 jam jadi bisa digunakan kapan saja ketika user ingin menggunakannya.
 
 **Screenshot Program Aplikasi :**
 1. Login
