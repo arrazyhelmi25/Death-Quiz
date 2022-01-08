@@ -13,34 +13,8 @@ Aplikasi ini ditujukan kepada siapa saja yang ingin mengisi waktu luangnya untuk
 Perbedaan signifikan antara login sebagai tamu dengan login dengan menggunakan akun yaitu ada pada fitur kategori kuis, dimana akan ada pilihan kategori kuis yang lebih banyak jika memilih opsi login dengan menggunakan akun.
 
 **Screenshot Program Aplikasi :**
-1. Launcher
 
-![](image/launcher.jpg)
-
-2. Main Home
-
-![](image/home.jpg)
-
-3. Home (Login as Guest)
-
-![](image/home_guest.jpg)
-
-4. Quiz Category (Login as Guest)
-
-![](image/category_guest.jpg)
-
-5. Level
-
-![](image/level.jpg)
-
-6. Question True Answer (Login as Guest)
-
-![](image/question_guest_true.jpg)
-
-7. Question Wrong Answer (Login as Guest)
-
-![](image/question_guest_wrong.jpg)
-
-8. Score
-
-![](image/score.jpg)
+![](image/s1.png)
+![](image/s2.png)
+![](image/s3.png)
+![](image/s4.png)
